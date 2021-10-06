@@ -3,6 +3,9 @@ uuid = "15066dba-a202-4cb1-bfd7-0f29c6409b3e"
 authors = ["Daniel Appelo <appeloda@msu.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+FastGaussQuadrature = "442a2c76-b920-505d-bb47-c5924d526838"
+
 [compat]
 julia = "1"
 
